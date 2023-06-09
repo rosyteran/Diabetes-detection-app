@@ -3,8 +3,10 @@ In this project, the objective is to predict whether the person has Diabetes or 
 - Pregnancies
 - Insulin Level
 - Age
-- BMI.</br>
-The data set that has used in this project has taken from the [kaggle](https://www.kaggle.com/) . "This dataset is originally from the National Institute of Diabetes and Digestive and Kidney Diseases. The objective of the dataset is to diagnostically predict whether or not a patient has diabetes, based on certain diagnostic measurements included in the dataset. Several constraints were placed on the selection of these instances from a larger database. In particular, all patients here are females at least 21 years old of Pima Indian heritage." and used a simple [random forest classifier](https://en.wikipedia.org/wiki/Random_forest).   
+- BMI
+- Blood Pressure
+- Sugar Level.</br>
+The data set that has used in this project has taken from the [kaggle](https://www.kaggle.com/) . "This dataset is originally from the National Institute of Diabetes and Digestive and Kidney Diseases. The objective of the dataset is to diagnostically predict whether or not a patient has diabetes, based on certain diagnostic measurements included in the dataset.I've used a simple [random forest classifier](https://en.wikipedia.org/wiki/Random_forest) to predict the outcome.   
 
 
 ### Motivation
